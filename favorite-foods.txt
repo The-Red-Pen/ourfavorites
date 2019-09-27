@@ -4,5 +4,6 @@ sandwich
 pasta
 tacos
 enchiladas
+cereal
 cheese
 shrimp
