@@ -4,3 +4,4 @@ sandwich
 pasta
 tacos
 enchiladas
+cereal
